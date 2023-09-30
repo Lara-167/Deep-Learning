@@ -31,5 +31,3 @@ Hier gibt "class" an, ob eine Banknote authentifiziert wurde oder nicht.
 5. Train Test Split
 6. Contrib.learn
 7. Auswertung
-
-#Projektergebnis:
